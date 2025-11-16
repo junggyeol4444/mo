@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[55,)"
+license="MIT"
+issueTrackerURL="https://example.com/issue"
+[[mods]]
+modId="mininggacha"
+version="1.0.0"
+displayName="MiningGacha"
+description='''
+MiningGacha - 채굴로 포인트를 모아 가챠로 "퇴근"을 얻어야만 Save & Quit이 활성화되는 모드입니다.
+기본 퇴근 확률: 0.1% (0.001). 명령어로 설정 변경 가능.
+'''
